@@ -1,5 +1,9 @@
 # ESSENCE — a general legal theory for governed systems
 
+*Version 0.1.0 — see [CHANGELOG.md](CHANGELOG.md) for the version history.
+`CHANGELOG.md` is the source of truth for the current version; this document
+carries no version number of its own.*
+
 ## What This Document Solves
 
 Every long-lived system with more than one contributor eventually hits the
