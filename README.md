@@ -416,3 +416,18 @@ together they *are* the Way: a constitution that stays alive because custom
 is allowed to amend it, kept lean because nothing survives that necessity
 does not demand, and kept honest because every claim, name, and directive is
 answerable to evidence, not assertion.
+
+---
+
+## License
+
+[CC BY 4.0](LICENSE) — attribution only. The license exists to maximize
+adoption without imposing constraints unrelated to the theory itself. No
+share-alike, no copyleft: fork this, adapt it inside a company's private
+repository, fold in whatever sensitive process detail the adaptation needs,
+and keep that adaptation closed. Nothing in this license obligates
+publishing a derivative back. The only condition is credit to the origin. A
+theory that required opening your own internals to use it would contradict
+its own §III — Katana cuts unnecessary requirements first, and a
+share-alike clause here would be exactly that: a requirement this project
+does not need to impose in order to stay alive.

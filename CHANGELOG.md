@@ -28,3 +28,9 @@ Merged the standalone `ESSENCE.md` into `README.md`: the document itself is
 the answer to "what is the Way?", so a separate file for it had no reason to
 exist (Katana, §III). No 0.1.0 tag existed yet, so this landed in the same
 version entry rather than a new one.
+
+Licensed under [CC BY 4.0](LICENSE) — attribution only, no share-alike.
+Companies adopting this must be able to adapt it privately (fold in
+sensitive internal process detail) without an obligation to publish that
+adaptation; a copyleft clause here would be an unjustified requirement the
+theory doesn't need (Katana, §III).
